@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm Jason YY Lin, working as a LLM Software System Lead in the Manufacturing Industry.
+
+Side Projects in Web3 with LLM-related projects: Cartesi, Domain-Specific Evaluation, Tokenizer, Fine-Tuning, Knowledge Graphs ... and more!
+
+Feel free to contact me: iiyyll01lin@gmail.com
 
 <!--
 **iiyyll01lin/iiyyll01lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

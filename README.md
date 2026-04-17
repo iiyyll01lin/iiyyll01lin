@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Jason YY Lin, working as a LLM Software System Lead in the Manufacturing Industry.
+## Hi there 👋 I'm Jason YY Lin, working as an LLM Software Engineer in the Semiconductor Industry.
 
 Side Projects in Web3 with LLM-related projects: Cartesi, Domain-Specific Evaluation, Tokenizer, Fine-Tuning, Knowledge Graphs ... and more!
 

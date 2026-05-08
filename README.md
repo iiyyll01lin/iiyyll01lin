@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Jason YY Lin, working as an LLM Software Engineer in the Semiconductor Industry.
 
-Side Projects in Web3 with LLM-related projects: Cartesi, Domain-Specific Evaluation, Tokenizer, Fine-Tuning, Knowledge Graphs ... and more!
+Side projects now focusing on Bioinformatics & Web3 with LLM-related projects: Cartesi, Domain-Specific Evaluation, Tokenizer, Fine-Tuning, Knowledge Graphs ... and more! 
 
 Feel free to contact me: iiyyll01lin@gmail.com
 
